@@ -17,7 +17,7 @@ Aplicação desenvolvida em [Laravel 5.3](http://laravel.com) com intúito de ap
 
 ## Instalação
 
-- PHP 5.6+;
+- PHP >=5.6;
 - Clonar o repositório;
 - No diretório do projeto instalar as dependências via composer;
 <pre>composer install</pre>
